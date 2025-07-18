@@ -122,6 +122,13 @@ body.dark .section-hero {
     gap: 15px;
 }
 
+.hero-cta-btn {
+    margin-top: 20px;
+    text-align: center;
+    transition: all 0.3s ease;
+
+}
+
 body.dark p {
     color: #ccc;
 }
